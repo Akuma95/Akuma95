@@ -8,7 +8,7 @@
     <p>If you want to start a project together, feel free to write me.</p>
 
 <details>
-<summary><h2>⚒ Languages and technologies</h2></summary>
+<summary><h2>🔭 Languages and technologies</h2></summary>
 
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML](https://skillicons.dev/icons?i=html)](https://www.w3schools.com/html/)
@@ -33,12 +33,13 @@
 
 [![Firabase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com)
 </details>
-<h2>⚒ Contact</h2>
+</div>
+
+<h2>📫 Contact</h2>
 
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/342065206853238787)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/noatak95/)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Fur_Akuma_95)
-</div>
 
 <!--
 **Akuma95/Akuma95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
