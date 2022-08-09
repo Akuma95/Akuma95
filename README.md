@@ -1,4 +1,4 @@
-<img align="right" width="340" src="https://raw.githubusercontent.com/skepfusky/skepfusky/master/akuma_headshot.jpg">
+<img align="right" width="340" src="https://raw.githubusercontent.com/Akuma95/Akuma95/master/akuma_headshot.jpg">
 <div align="left">
     <h2>Hi there 👋</h2>
     <p>
