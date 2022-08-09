@@ -1,4 +1,12 @@
-### Hi there 👋
+<img align="right" width="340" src="https://raw.githubusercontent.com/skepfusky/skepfusky/master/akuma_headshot.jpg">
+<div align="left">
+    <h2>Hi there 👋</h2>
+    <p>
+        My name is Paul or Akuma, I'm 26 years old. I live in Germany and work as a developer. 
+        My hobbies are gaming, programming (sometimes I also like design 😄) and meet with friends.
+    </p>
+    <p>If you want to start a project together, feel free to write me.</p>
+</div>
 
 <!--
 **Akuma95/Akuma95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
