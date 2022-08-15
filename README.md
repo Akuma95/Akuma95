@@ -38,10 +38,10 @@
 <h2>📫 Contact</h2>
 
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/342065206853238787)
+<!--
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/noatak95/)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Fur_Akuma_95)
 
-<!--
 **Akuma95/Akuma95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
