@@ -2,7 +2,7 @@
 <div align="left">
     <h2>Hi there 👋</h2>
     <p>
-        My name is Paul or Akuma, I'm 26 years old. I live in Germany and work as a developer. 
+        My name is Paul or Akuma, I'm 27 years old. I live in Germany and work as a developer. 
         My hobbies are gaming, programming (sometimes I also like design 😄) and meet with friends.
     </p>
     <p>If you want to start a project together, feel free to write me.</p>
