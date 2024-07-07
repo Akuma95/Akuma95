@@ -1,8 +1,8 @@
-<img alt="Image of Akuma" align="right" width="340" src="https://raw.githubusercontent.com/Akuma95/Akuma95/master/akuma_headshot.jpg">
 <div align="left">
     <h2>Hi there 👋</h2>
+    <img alt="Image of Akuma" align="right" width="240" src="https://raw.githubusercontent.com/Akuma95/Akuma95/master/akuma_headshot.jpg">
     <p>
-        My name is Paul or Akuma, I'm 27 years old. I live in Germany and work as a developer. 
+        My name is Paul or Akuma, I'm 28 years old. I live in Germany and work as a developer. 
         My hobbies are gaming, programming (sometimes I also like design 😄) and meet with friends.
     </p>
     <p>If you want to start a project together, feel free to write me.</p>
@@ -38,6 +38,7 @@
 <h2>📫 Contact</h2>
 
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/342065206853238787)
+<br><br><br><br>_This user was claimed by <a href="https://github.com/takemurahusky">Takemura</a>_
 <!--
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/noatak95/)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Fur_Akuma_95)
