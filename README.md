@@ -2,7 +2,7 @@
     <h2>Hi there 👋</h2>
     <img alt="Image of Akuma" align="right" width="240" src="https://raw.githubusercontent.com/Akuma95/Akuma95/master/akuma_headshot.jpg">
     <p>
-        My name is Paul or Akuma, I'm 28 years old. I live in Germany and work as a developer. 
+        My name is Paul or Akuma, I'm 30 years old. I live in Germany and work as a developer. 
         My hobbies are gaming, programming (sometimes I also like design 😄) and meet with friends.
     </p>
     <p>If you want to start a project together, feel free to write me.</p>
